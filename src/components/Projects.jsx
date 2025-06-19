@@ -1,18 +1,18 @@
 import React from 'react';
 import Slider from 'react-slick';
 import { FaGithub } from 'react-icons/fa';
-import htmlImage from '../assets/htmlandcssimage.png';
-import htmlImage2 from '../assets/htmlandcssimage2.png';
-import htmlImage3 from '../assets/htmlandcssimage3.png';
-import reactImage from '../assets/reactimage1.png';
-import reactImage2 from '../assets/reactimage2.png';
-import reactImage3 from '../assets/reactimage3.png';
+import htmlImage from '../assets/htmlandcssimage.PNG';
+import htmlImage2 from '../assets/htmlandcssimage2.PNG';
+import htmlImage3 from '../assets/htmlandcssimage3.PNG';
+import reactImage from '../assets/reactimage1.PNG';
+import reactImage2 from '../assets/reactimage2.PNG';
+import reactImage3 from '../assets/reactimage3.PNG';
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import djangoImage1 from '../assets/djangoimage1.png';
-import djangoImage2 from '../assets/djangoimage2.png';
-import djangoImage3 from '../assets/djangoimage3.png';
+import djangoImage1 from '../assets/djangoimage1.PNG';
+import djangoImage2 from '../assets/djangoimage2.PNG';
+import djangoImage3 from '../assets/djangoimage3.PNG';
 import AthrImage1 from '../assets/Athr1.jpg';
 import AthrImage2 from '../assets/Athr2.jpg';
 import AthrImage3 from '../assets/Athr3.jpg';
