@@ -71,12 +71,15 @@ const Navbar = () => {
         </div>
 
        <a
-          href="/Areej_Anwer_Hagag_cv.pdf"
-          download
-          className="bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-6 py-2 rounded-full"
-        >
-          Download CV
-        </a>
+  href={`${window.location.origin}/Areej_Anwer_Hagag_cv2.pdf`}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-6 py-2 rounded-full"
+>
+  View / Download CV
+</a>
+
+
       </div>
     </nav>
   );
