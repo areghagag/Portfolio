@@ -29,13 +29,15 @@ const Hero = () => {
         >
           Contact with Me
         </a>
-        <a
+       <a
   href="/cv.pdf"
-  download
-  className="bg-gradient-to-r from-pink-500 to-purple-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-6 py-2 rounded-full"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-6 py-2 rounded-full"
 >
-  Download CV
+  View / Download CV
 </a>
+
 
       </div>
     </div>
